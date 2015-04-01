@@ -8,4 +8,4 @@ My current interest, whether I like it or not is my daughter.  She is 9 months o
 *guitar
 
 ##Programming Background
-My programming background is somewhat limited.  I have read and worked through several books on HTML, Java, C++, MySQL, but the real test for me is using these skills outside of studying, and I haven't done much of that.
+My programming background is somewhat limited.  I have read and worked through several books on HTML, Java, C++, MySQL, but the real test for me is using these skills outside of studying, and I haven't done much of that. My favorite programming projects were the graphical applications.  When I took CS 161 and 162 they taught Java and had us create a Battleship game, which was probably my favorite assignment. 
